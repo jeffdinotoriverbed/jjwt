@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/jwtk/jjwt.svg?branch=master)](https://travis-ci.org/jwtk/jjwt)
 [![Coverage Status](https://coveralls.io/repos/github/jwtk/jjwt/badge.svg?branch=master)](https://coveralls.io/github/jwtk/jjwt?branch=master)
 [![Gitter](https://badges.gitter.im/jwtk/jjwt.svg)](https://gitter.im/jwtk/jjwt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fjjwt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fjjwt?ref=badge_shield)
 
 ## Java JWT: JSON Web Token for Java and Android
 
@@ -1640,3 +1641,6 @@ Maintained by Les Hazlewood &amp; [Okta](https://okta.com/)
 ## License
 
 This project is open-source via the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fjjwt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fjjwt?ref=badge_large)
